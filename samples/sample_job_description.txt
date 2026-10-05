@@ -1,0 +1,27 @@
+Junior Data Analyst — BrightCart (Chicago, IL · Hybrid)
+
+About us
+BrightCart is a fast-growing online grocery company serving 400,000 households across the Midwest. Our Analytics team turns order, delivery and marketing data into decisions that save customers time and money.
+
+What you'll do
+- Build and maintain dashboards in Tableau or Power BI that track orders, delivery times and customer retention
+- Write SQL queries against our PostgreSQL warehouse to answer questions from marketing, operations and finance
+- Clean and analyze large datasets with Python (pandas, NumPy)
+- Design and evaluate A/B tests for promotions and app features
+- Present findings and recommendations to non-technical stakeholders
+
+Required
+- Bachelor's degree in Statistics, Computer Science, Economics or a related field (or equivalent experience)
+- Strong SQL (joins, window functions, CTEs)
+- Python for data analysis (pandas, NumPy)
+- Experience with a BI tool such as Tableau or Power BI
+- Solid understanding of statistics, including hypothesis testing
+- Clear written and verbal communication
+
+Nice to have
+- Experience with dbt or Airflow
+- Familiarity with A/B testing platforms
+- Exposure to cloud data warehouses (Snowflake, BigQuery)
+- Retail or e-commerce domain knowledge
+
+Benefits: health insurance, 401(k) match, $1,500 learning budget, free grocery delivery.
